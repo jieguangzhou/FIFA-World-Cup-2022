@@ -51,8 +51,10 @@ if len(predict_results) > 0:
     mean = 0
     print("betting strategy:")
     for _, data in predict_results.iterrows():
-        mean += data[data['buy']+"_odds"] * data['ratio']
-        print(f"{data['home_team']} vs {data['away_team']}: {data['buy']} {data['ratio']}")
+        mean += data[data['buy']+"_odds"] * \
+            data['ratio'] * data[data['buy']+"_proba"]
+        print(
+            f"{data['home_team']} vs {data['away_team']}: {data['buy']} {data['ratio']}")
 
     print("The possible payoff is : ", mean)
 
