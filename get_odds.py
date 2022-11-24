@@ -1,10 +1,7 @@
 import json
 import requests
-from datetime import datetime
 
-
-today = datetime.now().strftime("%Y-%m-%d")
-today = "2022-11-25"
+bet_date = "2022-11-25"  # $PARAM:
 
 zh2en = {
     "卡塔尔": "Qatar",
@@ -23,7 +20,7 @@ zh2en = {
     "伊朗": "IR Iran",
     "韩国": "Korea Republic",
     "日本": "Japan",
-    "沙特阿拉伯": "Saudi Arabia",
+    "沙特": "Saudi Arabia",
     "厄瓜多尔": "Ecuador",
     "乌拉圭": "Uruguay",
     "加拿大": "Canada",
@@ -49,7 +46,7 @@ url = "https://webapi.sporttery.cn/gateway/jc/football/getMatchCalculatorV1.qry?
 match_info_list = requests.get(url).json()["value"]["matchInfoList"]
 
 today_matches = [data for data in match_info_list if data["businessDate"]
-                 == today][0]['subMatchList']
+                 == bet_date][0]['subMatchList']
 
 today_world_cup_matches = [
     match for match in today_matches if match["leagueAbbName"] == match_type]
@@ -72,14 +69,16 @@ for today_world_cup_match in today_world_cup_matches:
     away_team = zh2en[away_team_zh]
 
     data = {
-        "Team1": home_team,
-        "Team2": away_team,
+        "home_team": home_team,
+        "away_team": away_team,
         "win_odds": win_odds,
         "draw_odds": draw_odds,
         "lose_odds": lose_odds,
+        "no_draw": bet_date >= "2022-12-03",
+        "bet_date": bet_date,
     }
     print(data)
     datas.append(data)
 
 
-json.dump(datas, open("data/odds.json", "w"), indent=4)
+json.dump(datas, open("/tmp/fifa/odds.json", "w"), indent=4)

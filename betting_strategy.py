@@ -1,6 +1,6 @@
 import pandas as pd
 
-predict_results = pd.read_csv('data/results.csv')
+predict_results = pd.read_csv('/tmp/fifa/today_result.csv')
 
 
 def calc_ratio(data):
@@ -30,9 +30,31 @@ def calc_ratio(data):
 predict_results[['ratio', 'buy']] = predict_results.apply(
     calc_ratio, axis=1, result_type="expand")
 
-predict_results['ratio'] /= predict_results['ratio'].sum()
-
-columns = ['Team1', 'Team2', 'ratio', 'buy', 'win_odds', 'draw_odds', 'lose_odds', 'win_proba',
+columns = ['home_team', 'away_team', 'ratio', 'buy', 'win_odds', 'draw_odds', 'lose_odds', 'win_proba',
            'lose_proba', 'draw_proba']
 
-print(predict_results[columns])
+predict_results = predict_results[columns]
+
+print()
+
+print(predict_results.to_string())
+
+predict_results = predict_results[predict_results['ratio'] > 0]
+
+predict_results['ratio'] /= predict_results['ratio'].sum()
+predict_results['ratio'] = predict_results['ratio'].round(2)
+
+
+if len(predict_results) > 0:
+    print(predict_results.to_string())
+    print()
+    mean = 0
+    print("betting strategy:")
+    for _, data in predict_results.iterrows():
+        mean += data[data['buy']+"_odds"] * data['ratio']
+        print(f"{data['home_team']} vs {data['away_team']}: {data['buy']} {data['ratio']}")
+
+    print("The possible payoff is : ", mean)
+
+else:
+    print("No bet today!")
