@@ -1,0 +1,65 @@
+home_team,away_team,group,type
+Qatar,Ecuador,a,group
+Senegal,Netherlands,a,group
+England,IR Iran,b,group
+USA,Wales,b,group
+France,Australia,d,group
+Denmark,Tunisia,d,group
+Mexico,Poland,c,group
+Argentina,Saudi Arabia,c,group
+Belgium,Canada,f,group
+Spain,Costa Rica,e,group
+Germany,Japan,e,group
+Morocco,Croatia,f,group
+Switzerland,Cameroon,g,group
+Uruguay,Korea Republic,h,group
+Portugal,Ghana,h,group
+Brazil,Serbia,g,group
+Wales,IR Iran,b,group
+Qatar,Senegal,a,group
+Netherlands,Ecuador,a,group
+England,USA,b,group
+Tunisia,Australia,d,group
+Poland,Saudi Arabia,c,group
+France,Denmark,d,group
+Argentina,Mexico,c,group
+Japan,Costa Rica,e,group
+Belgium,Morocco,f,group
+Croatia,Canada,f,group
+Spain,Germany,e,group
+Cameroon,Serbia,g,group
+Korea Republic,Ghana,h,group
+Brazil,Switzerland,g,group
+Portugal,Uruguay,h,group
+Wales,England,b,group
+IR Iran,USA,b,group
+Ecuador,Senegal,a,group
+Netherlands,Qatar,a,group
+Australia,Denmark,d,group
+Tunisia,France,d,group
+Poland,Argentina,c,group
+Saudi Arabia,Mexico,c,group
+Croatia,Belgium,f,group
+Canada,Morocco,f,group
+Japan,Spain,e,group
+Costa Rica,Germany,e,group
+Ghana,Uruguay,h,group
+Korea Republic,Portugal,h,group
+Serbia,Switzerland,g,group
+Cameroon,Brazil,g,group
+1a,2b,s1,1/8
+1c,2d,s2,1/8
+1e,2f,t1,1/8
+1g,2h,t2,1/8
+1b,2a,u1,1/8
+1d,2c,u2,1/8
+1f,2e,v1,1/8
+1h,2g,v2,1/8
+s1,s2,w1,1/4
+t1,t2,w2,1/4
+u1,u2,x1,1/4
+v1,v2,x2,1/4
+w1,w2,y1,semi-final
+x1,x2,y2,semi-final
+y1,y2,f,final
+z1,z2,f3,play-off-for-third-place
