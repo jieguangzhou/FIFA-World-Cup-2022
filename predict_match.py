@@ -9,6 +9,8 @@ schedule_df = pd.read_csv('/tmp/fifa/schedule.csv')
 schedule_df['winner'] = None
 random_seed = -1  # $PARAM:
 
+base_groups = schedule_df['group'].copy()
+
 
 last_match_data = pd.read_csv('/tmp/fifa/last_match.csv')
 
@@ -67,7 +69,8 @@ def predict(home_team, away_team, no_draw=True):
     if random_seed >= 0 and no_draw:
         predict_proba = [x / sum(predict_proba) for x in predict_proba]
         np.random.seed(random_seed)
-        win_team = np.random.choice([away_team, home_team], p=predict_proba[:2])
+        win_team = np.random.choice(
+            [away_team, home_team], p=predict_proba[:2])
         result['win_team'] = win_team
 
     result['home_team'] = home_team
@@ -114,6 +117,8 @@ def predict_group():
         next_teams.append(("1"+group_name, first))
         next_teams.append(("2"+group_name, second))
 
+    schedule_df['group'] = base_groups
+
     return results
 
 
@@ -144,6 +149,8 @@ def predict_knockout(knockout_tag):
                 set_z1 = True
             else:
                 schedule_df.replace("z2", lose_team, inplace=True)
+
+    schedule_df['group'] = base_groups
     return next_teams
 
 
