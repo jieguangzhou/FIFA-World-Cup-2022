@@ -34,7 +34,7 @@ def load_script(path):
 with ProcessDefinition(
     name="training",
     param={
-        "train_time": 120,
+        "train_time": 240,
     }
 ) as pd:
 
@@ -50,7 +50,14 @@ with ProcessDefinition(
     task_training = Python(name="training",
                            definition=load_script("training.py"))
 
-    task_download_data >> task_data_preprocessing >> task_training
+    # Select the team with high probability of winning and make the prediction
+    task_predict_match = Python(name="predict_match",
+                                definition=load_script("predict_match.py"),
+                                local_params=[
+                                    {"prop": "random_seed", "direct": "IN", "type": "VARCHAR", "value": -1}]
+                                )
+
+    task_download_data >> task_data_preprocessing >> task_training >> task_predict_match
 
     pd.submit()
 
@@ -61,7 +68,7 @@ with ProcessDefinition(
 
     # Simulate the results of multiple matches
     predict_tasks = []
-    for seed in range(50):
+    for seed in range(1000):
         task_predict = Python(name=f"predict_match_{seed}",
                               definition=load_script("predict_match.py"),
                               local_params=[

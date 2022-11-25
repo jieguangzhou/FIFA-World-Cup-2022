@@ -7,7 +7,7 @@ import numpy as np
 
 schedule_df = pd.read_csv('/tmp/fifa/schedule.csv')
 schedule_df['winner'] = None
-random_seed = 0  # $PARAM:
+random_seed = -1  # $PARAM:
 
 
 last_match_data = pd.read_csv('/tmp/fifa/last_match.csv')
@@ -66,7 +66,7 @@ def predict(home_team, away_team, no_draw=True):
 
     if random_seed >= 0 and no_draw:
         predict_proba = [x / sum(predict_proba) for x in predict_proba]
-        # np.random.seed(random_seed)
+        np.random.seed(random_seed)
         win_team = np.random.choice([away_team, home_team], p=predict_proba[:2])
         result['win_team'] = win_team
 
@@ -204,3 +204,8 @@ os.makedirs("/tmp/fifa/simulation/", exist_ok=True)
 
 json.dump(top4_result, open(
     f'/tmp/fifa/simulation/top4_result_{random_seed}.json', "w"))
+
+print()
+print("The results of all the games")
+print(schedule_df.to_string())
+schedule_df.to_csv("/tmp/fifa/results.csv")
