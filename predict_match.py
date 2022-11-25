@@ -119,7 +119,7 @@ def predict_group():
 
     schedule_df['group'] = base_groups
 
-    return results
+    return next_teams
 
 
 def predict_knockout(knockout_tag):

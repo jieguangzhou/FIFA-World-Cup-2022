@@ -1,0 +1,740 @@
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Qatar vs Ecuador
+
+Qatar           -------------------- 0.369
+                                    |
+                                    | ---------- Ecuador
+                                    |
+Ecuador         -------------------- 0.631
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Senegal vs Netherlands
+
+Senegal         -------------------- 0.398
+                                    |
+                                    | ---------- Netherlands
+                                    |
+Netherlands     -------------------- 0.602
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+England vs IR Iran
+
+England         -------------------- 0.816
+                                    |
+                                    | ---------- England
+                                    |
+IR Iran         -------------------- 0.184
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+USA vs Wales
+
+USA             -------------------- 0.644
+                                    |
+                                    | ---------- USA
+                                    |
+Wales           -------------------- 0.356
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+France vs Australia
+
+France          -------------------- 0.894
+                                    |
+                                    | ---------- France
+                                    |
+Australia       -------------------- 0.106
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Denmark vs Tunisia
+
+Denmark         -------------------- 0.868
+                                    |
+                                    | ---------- Denmark
+                                    |
+Tunisia         -------------------- 0.132
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Mexico vs Poland
+
+Mexico          -------------------- 0.653
+                                    |
+                                    | ---------- Mexico
+                                    |
+Poland          -------------------- 0.347
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Argentina vs Saudi Arabia
+
+Argentina       -------------------- 0.883
+                                    |
+                                    | ---------- Argentina
+                                    |
+Saudi Arabia    -------------------- 0.117
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Belgium vs Canada
+
+Belgium         -------------------- 0.877
+                                    |
+                                    | ---------- Belgium
+                                    |
+Canada          -------------------- 0.123
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Spain vs Costa Rica
+
+Spain           -------------------- 0.824
+                                    |
+                                    | ---------- Spain
+                                    |
+Costa Rica      -------------------- 0.176
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Germany vs Japan
+
+Germany         -------------------- 0.835
+                                    |
+                                    | ---------- Germany
+                                    |
+Japan           -------------------- 0.165
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Morocco vs Croatia
+
+Morocco         -------------------- 0.642
+                                    |
+                                    | ---------- Morocco
+                                    |
+Croatia         -------------------- 0.358
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Switzerland vs Cameroon
+
+Switzerland     -------------------- 0.752
+                                    |
+                                    | ---------- Switzerland
+                                    |
+Cameroon        -------------------- 0.248
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Uruguay vs Korea Republic
+
+Uruguay         -------------------- 0.821
+                                    |
+                                    | ---------- Uruguay
+                                    |
+Korea Republic  -------------------- 0.179
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Portugal vs Ghana
+
+Portugal        -------------------- 0.877
+                                    |
+                                    | ---------- Portugal
+                                    |
+Ghana           -------------------- 0.123
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Brazil vs Serbia
+
+Brazil          -------------------- 0.841
+                                    |
+                                    | ---------- Brazil
+                                    |
+Serbia          -------------------- 0.159
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Wales vs IR Iran
+
+Wales           -------------------- 0.694
+                                    |
+                                    | ---------- Wales
+                                    |
+IR Iran         -------------------- 0.306
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Qatar vs Senegal
+
+Qatar           -------------------- 0.3
+                                    |
+                                    | ---------- Senegal
+                                    |
+Senegal         -------------------- 0.7
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Netherlands vs Ecuador
+
+Netherlands     -------------------- 0.865
+                                    |
+                                    | ---------- Netherlands
+                                    |
+Ecuador         -------------------- 0.135
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+England vs USA
+
+England         -------------------- 0.83
+                                    |
+                                    | ---------- England
+                                    |
+USA             -------------------- 0.17
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Tunisia vs Australia
+
+Tunisia         -------------------- 0.698
+                                    |
+                                    | ---------- Tunisia
+                                    |
+Australia       -------------------- 0.302
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Poland vs Saudi Arabia
+
+Poland          -------------------- 0.787
+                                    |
+                                    | ---------- Poland
+                                    |
+Saudi Arabia    -------------------- 0.213
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+France vs Denmark
+
+France          -------------------- 0.772
+                                    |
+                                    | ---------- France
+                                    |
+Denmark         -------------------- 0.228
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Argentina vs Mexico
+
+Argentina       -------------------- 0.772
+                                    |
+                                    | ---------- Argentina
+                                    |
+Mexico          -------------------- 0.228
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Japan vs Costa Rica
+
+Japan           -------------------- 0.764
+                                    |
+                                    | ---------- Japan
+                                    |
+Costa Rica      -------------------- 0.236
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Belgium vs Morocco
+
+Belgium         -------------------- 0.84
+                                    |
+                                    | ---------- Belgium
+                                    |
+Morocco         -------------------- 0.16
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Croatia vs Canada
+
+Croatia         -------------------- 0.832
+                                    |
+                                    | ---------- Croatia
+                                    |
+Canada          -------------------- 0.168
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Spain vs Germany
+
+Spain           -------------------- 0.581
+                                    |
+                                    | ---------- Spain
+                                    |
+Germany         -------------------- 0.419
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Cameroon vs Serbia
+
+Cameroon        -------------------- 0.242
+                                    |
+                                    | ---------- draw
+                                    |
+Serbia          -------------------- 0.258
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Korea Republic vs Ghana
+
+Korea Republic  -------------------- 0.702
+                                    |
+                                    | ---------- Korea Republic
+                                    |
+Ghana           -------------------- 0.298
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Brazil vs Switzerland
+
+Brazil          -------------------- 0.824
+                                    |
+                                    | ---------- Brazil
+                                    |
+Switzerland     -------------------- 0.176
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Portugal vs Uruguay
+
+Portugal        -------------------- 0.757
+                                    |
+                                    | ---------- Portugal
+                                    |
+Uruguay         -------------------- 0.243
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Wales vs England
+
+Wales           -------------------- 0.308
+                                    |
+                                    | ---------- England
+                                    |
+England         -------------------- 0.692
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+IR Iran vs USA
+
+IR Iran         -------------------- 0.364
+                                    |
+                                    | ---------- USA
+                                    |
+USA             -------------------- 0.636
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Ecuador vs Senegal
+
+Ecuador         -------------------- 0.355
+                                    |
+                                    | ---------- Senegal
+                                    |
+Senegal         -------------------- 0.645
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Netherlands vs Qatar
+
+Netherlands     -------------------- 0.956
+                                    |
+                                    | ---------- Netherlands
+                                    |
+Qatar           -------------------- 0.044
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Australia vs Denmark
+
+Australia       -------------------- 0.377
+                                    |
+                                    | ---------- Denmark
+                                    |
+Denmark         -------------------- 0.623
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Tunisia vs France
+
+Tunisia         -------------------- 0.271
+                                    |
+                                    | ---------- France
+                                    |
+France          -------------------- 0.729
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Poland vs Argentina
+
+Poland          -------------------- 0.392
+                                    |
+                                    | ---------- Argentina
+                                    |
+Argentina       -------------------- 0.608
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Saudi Arabia vs Mexico
+
+Saudi Arabia    -------------------- 0.297
+                                    |
+                                    | ---------- Mexico
+                                    |
+Mexico          -------------------- 0.703
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Croatia vs Belgium
+
+Croatia         -------------------- 0.376
+                                    |
+                                    | ---------- Belgium
+                                    |
+Belgium         -------------------- 0.624
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Canada vs Morocco
+
+Canada          -------------------- 0.426
+                                    |
+                                    | ---------- Morocco
+                                    |
+Morocco         -------------------- 0.574
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Japan vs Spain
+
+Japan           -------------------- 0.261
+                                    |
+                                    | ---------- Spain
+                                    |
+Spain           -------------------- 0.739
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Costa Rica vs Germany
+
+Costa Rica      -------------------- 0.317
+                                    |
+                                    | ---------- Germany
+                                    |
+Germany         -------------------- 0.683
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Ghana vs Uruguay
+
+Ghana           -------------------- 0.328
+                                    |
+                                    | ---------- Uruguay
+                                    |
+Uruguay         -------------------- 0.672
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Korea Republic vs Portugal
+
+Korea Republic  -------------------- 0.297
+                                    |
+                                    | ---------- Portugal
+                                    |
+Portugal        -------------------- 0.703
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Serbia vs Switzerland
+
+Serbia          -------------------- 0.603
+                                    |
+                                    | ---------- Serbia
+                                    |
+Switzerland     -------------------- 0.397
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Cameroon vs Brazil
+
+Cameroon        -------------------- 0.224
+                                    |
+                                    | ---------- Brazil
+                                    |
+Brazil          -------------------- 0.776
+group results:
+[('1a', 'Netherlands'), ('2a', 'Senegal'), ('1b', 'England'), ('2b', 'USA'), ('1d', 'France'), ('2d', 'Denmark'), ('1c', 'Argentina'), ('2c', 'Mexico'), ('1f', 'Belgium'), ('2f', 'Morocco'), ('1e', 'Spain'), ('2e', 'Germany'), ('1g', 'Brazil'), ('2g', 'Serbia'), ('1h', 'Portugal'), ('2h', 'Uruguay')]
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+match:  1/8
+
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Netherlands vs USA
+
+Netherlands     -------------------- 0.8
+                                    |
+                                    | ---------- Netherlands
+                                    |
+USA             -------------------- 0.2
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Argentina vs Denmark
+
+Argentina       -------------------- 0.725
+                                    |
+                                    | ---------- Argentina
+                                    |
+Denmark         -------------------- 0.275
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Spain vs Morocco
+
+Spain           -------------------- 0.821
+                                    |
+                                    | ---------- Spain
+                                    |
+Morocco         -------------------- 0.179
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Brazil vs Uruguay
+
+Brazil          -------------------- 0.817
+                                    |
+                                    | ---------- Brazil
+                                    |
+Uruguay         -------------------- 0.183
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+England vs Senegal
+
+England         -------------------- 0.809
+                                    |
+                                    | ---------- England
+                                    |
+Senegal         -------------------- 0.191
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+France vs Mexico
+
+France          -------------------- 0.836
+                                    |
+                                    | ---------- France
+                                    |
+Mexico          -------------------- 0.164
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Belgium vs Germany
+
+Belgium         -------------------- 0.539
+                                    |
+                                    | ---------- Belgium
+                                    |
+Germany         -------------------- 0.461
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Portugal vs Serbia
+
+Portugal        -------------------- 0.787
+                                    |
+                                    | ---------- Portugal
+                                    |
+Serbia          -------------------- 0.213
+1/8 results:
+[('1/8', 'Netherlands'), ('1/8', 'Argentina'), ('1/8', 'Spain'), ('1/8', 'Brazil'), ('1/8', 'England'), ('1/8', 'France'), ('1/8', 'Belgium'), ('1/8', 'Portugal')]
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+match:  1/4
+
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Netherlands vs Argentina
+
+Netherlands     -------------------- 0.599
+                                    |
+                                    | ---------- Netherlands
+                                    |
+Argentina       -------------------- 0.401
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Spain vs Brazil
+
+Spain           -------------------- 0.524
+                                    |
+                                    | ---------- Spain
+                                    |
+Brazil          -------------------- 0.476
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+England vs France
+
+England         -------------------- 0.515
+                                    |
+                                    | ---------- England
+                                    |
+France          -------------------- 0.485
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Belgium vs Portugal
+
+Belgium         -------------------- 0.58
+                                    |
+                                    | ---------- Belgium
+                                    |
+Portugal        -------------------- 0.42
+1/4 results:
+[('1/4', 'Netherlands'), ('1/4', 'Spain'), ('1/4', 'England'), ('1/4', 'Belgium')]
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+match:  semi-final
+
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Netherlands vs Spain
+
+Netherlands     -------------------- 0.493
+                                    |
+                                    | ---------- Spain
+                                    |
+Spain           -------------------- 0.507
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+England vs Belgium
+
+England         -------------------- 0.647
+                                    |
+                                    | ---------- England
+                                    |
+Belgium         -------------------- 0.353
+semi-final results:
+[('semi-final', 'Spain'), ('semi-final', 'England')]
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+match:  play-off-for-third-place
+
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Netherlands vs Belgium
+
+Netherlands     -------------------- 0.539
+                                    |
+                                    | ---------- Netherlands
+                                    |
+Belgium         -------------------- 0.461
+play-off-for-third-place results:
+[('play-off-for-third-place', 'Netherlands')]
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+match:  final
+
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+
+Spain vs England
+
+Spain           -------------------- 0.598
+                                    |
+                                    | ---------- Spain
+                                    |
+England         -------------------- 0.402
+final results:
+[('final', 'Spain')]
+{'no.1': 'Spain', 'no.2': 'England', 'no.3': 'Netherlands', 'no.4': 'Belgium'}
+
+The results of all the games
+         home_team       away_team group                      type          winner
+0            Qatar         Ecuador     a                     group         Ecuador
+1          Senegal     Netherlands     a                     group     Netherlands
+2          England         IR Iran     b                     group         England
+3              USA           Wales     b                     group             USA
+4           France       Australia     d                     group          France
+5          Denmark         Tunisia     d                     group         Denmark
+6           Mexico          Poland     c                     group          Mexico
+7        Argentina    Saudi Arabia     c                     group       Argentina
+8          Belgium          Canada     f                     group         Belgium
+9            Spain      Costa Rica     e                     group           Spain
+10         Germany           Japan     e                     group         Germany
+11         Morocco         Croatia     f                     group         Morocco
+12     Switzerland        Cameroon     g                     group     Switzerland
+13         Uruguay  Korea Republic     h                     group         Uruguay
+14        Portugal           Ghana     h                     group        Portugal
+15          Brazil          Serbia     g                     group          Brazil
+16           Wales         IR Iran     b                     group           Wales
+17           Qatar         Senegal     a                     group         Senegal
+18     Netherlands         Ecuador     a                     group     Netherlands
+19         England             USA     b                     group         England
+20         Tunisia       Australia     d                     group         Tunisia
+21          Poland    Saudi Arabia     c                     group          Poland
+22          France         Denmark     d                     group          France
+23       Argentina          Mexico     c                     group       Argentina
+24           Japan      Costa Rica     e                     group           Japan
+25         Belgium         Morocco     f                     group         Belgium
+26         Croatia          Canada     f                     group         Croatia
+27           Spain         Germany     e                     group           Spain
+28        Cameroon          Serbia     g                     group            draw
+29  Korea Republic           Ghana     h                     group  Korea Republic
+30          Brazil     Switzerland     g                     group          Brazil
+31        Portugal         Uruguay     h                     group        Portugal
+32           Wales         England     b                     group         England
+33         IR Iran             USA     b                     group             USA
+34         Ecuador         Senegal     a                     group         Senegal
+35     Netherlands           Qatar     a                     group     Netherlands
+36       Australia         Denmark     d                     group         Denmark
+37         Tunisia          France     d                     group          France
+38          Poland       Argentina     c                     group       Argentina
+39    Saudi Arabia          Mexico     c                     group          Mexico
+40         Croatia         Belgium     f                     group         Belgium
+41          Canada         Morocco     f                     group         Morocco
+42           Japan           Spain     e                     group           Spain
+43      Costa Rica         Germany     e                     group         Germany
+44           Ghana         Uruguay     h                     group         Uruguay
+45  Korea Republic        Portugal     h                     group        Portugal
+46          Serbia     Switzerland     g                     group          Serbia
+47        Cameroon          Brazil     g                     group          Brazil
+48     Netherlands             USA    s1                       1/8     Netherlands
+49       Argentina         Denmark    s2                       1/8       Argentina
+50           Spain         Morocco    t1                       1/8           Spain
+51          Brazil         Uruguay    t2                       1/8          Brazil
+52         England         Senegal    u1                       1/8         England
+53          France          Mexico    u2                       1/8          France
+54         Belgium         Germany    v1                       1/8         Belgium
+55        Portugal          Serbia    v2                       1/8        Portugal
+56     Netherlands       Argentina    w1                       1/4     Netherlands
+57           Spain          Brazil    w2                       1/4           Spain
+58         England          France    x1                       1/4         England
+59         Belgium        Portugal    x2                       1/4         Belgium
+60     Netherlands           Spain    y1                semi-final           Spain
+61         England         Belgium    y2                semi-final         England
+62           Spain         England     f                     final           Spain
+63     Netherlands         Belgium    f3  play-off-for-third-place     Netherlands

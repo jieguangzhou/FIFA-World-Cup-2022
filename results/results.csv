@@ -7,10 +7,10 @@
 5,Denmark,Tunisia,d,group,Denmark
 6,Mexico,Poland,c,group,Mexico
 7,Argentina,Saudi Arabia,c,group,Argentina
-8,Belgium,Canada,Spain,group,Belgium
+8,Belgium,Canada,f,group,Belgium
 9,Spain,Costa Rica,e,group,Spain
 10,Germany,Japan,e,group,Germany
-11,Morocco,Croatia,Spain,group,Morocco
+11,Morocco,Croatia,f,group,Morocco
 12,Switzerland,Cameroon,g,group,Switzerland
 13,Uruguay,Korea Republic,h,group,Uruguay
 14,Portugal,Ghana,h,group,Portugal
@@ -24,8 +24,8 @@
 22,France,Denmark,d,group,France
 23,Argentina,Mexico,c,group,Argentina
 24,Japan,Costa Rica,e,group,Japan
-25,Belgium,Morocco,Spain,group,Belgium
-26,Croatia,Canada,Spain,group,Croatia
+25,Belgium,Morocco,f,group,Belgium
+26,Croatia,Canada,f,group,Croatia
 27,Spain,Germany,e,group,Spain
 28,Cameroon,Serbia,g,group,draw
 29,Korea Republic,Ghana,h,group,Korea Republic
@@ -39,27 +39,27 @@
 37,Tunisia,France,d,group,France
 38,Poland,Argentina,c,group,Argentina
 39,Saudi Arabia,Mexico,c,group,Mexico
-40,Croatia,Belgium,Spain,group,Belgium
-41,Canada,Morocco,Spain,group,Morocco
+40,Croatia,Belgium,f,group,Belgium
+41,Canada,Morocco,f,group,Morocco
 42,Japan,Spain,e,group,Spain
 43,Costa Rica,Germany,e,group,Germany
 44,Ghana,Uruguay,h,group,Uruguay
 45,Korea Republic,Portugal,h,group,Portugal
 46,Serbia,Switzerland,g,group,Serbia
 47,Cameroon,Brazil,g,group,Brazil
-48,Netherlands,USA,Netherlands,1/8,Netherlands
-49,Argentina,Denmark,Argentina,1/8,Argentina
-50,Spain,Morocco,Spain,1/8,Spain
-51,Brazil,Uruguay,Brazil,1/8,Brazil
-52,England,Senegal,England,1/8,England
-53,France,Mexico,France,1/8,France
-54,Belgium,Germany,Belgium,1/8,Belgium
-55,Portugal,Serbia,Portugal,1/8,Portugal
-56,Netherlands,Argentina,Netherlands,1/4,Netherlands
-57,Spain,Brazil,Spain,1/4,Spain
-58,England,France,England,1/4,England
-59,Belgium,Portugal,Belgium,1/4,Belgium
-60,Netherlands,Spain,Spain,semi-final,Spain
-61,England,Belgium,England,semi-final,England
-62,Spain,England,Spain,final,Spain
-63,Netherlands,Belgium,Netherlands,play-off-for-third-place,Netherlands
+48,Netherlands,USA,s1,1/8,Netherlands
+49,Argentina,Denmark,s2,1/8,Argentina
+50,Spain,Morocco,t1,1/8,Spain
+51,Brazil,Uruguay,t2,1/8,Brazil
+52,England,Senegal,u1,1/8,England
+53,France,Mexico,u2,1/8,France
+54,Belgium,Germany,v1,1/8,Belgium
+55,Portugal,Serbia,v2,1/8,Portugal
+56,Netherlands,Argentina,w1,1/4,Netherlands
+57,Spain,Brazil,w2,1/4,Spain
+58,England,France,x1,1/4,England
+59,Belgium,Portugal,x2,1/4,Belgium
+60,Netherlands,Spain,y1,semi-final,Spain
+61,England,Belgium,y2,semi-final,England
+62,Spain,England,f,final,Spain
+63,Netherlands,Belgium,f3,play-off-for-third-place,Netherlands
