@@ -1,13 +1,62 @@
+
+
 # FIFA-World-Cup-2022
+
 DolphinScheduler machine learning "FIFA World Cup 2022" betting workflow
 
 In this project, we will use machine learning to **predict which country will win the FIFA World Cup 2022** and **get a betting strategy every day**.
 
 
 
-## Step-1 start DolphinScheduler
+## World Cup predictions
+
+**Here are the results of two different forecasting methods**
+
+### Simulate 1000 World Cup qualification results based on team win probability
+
+Probability of championship
+
+```
+Netherlands    0.493506
+Serbia         0.197802
+France         0.127872
+Portugal       0.073926
+Brazil         0.043956
+```
+
+The top four
+
+```
+No.1: Netherlands
+No.2: England
+No.3: Spain
+No.4: Belgium
+```
+
+### Choose the team with a high probability of winning
+
+```
+No.1: Spain
+No.2: England
+No.3: Netherlands
+No.4: Belgium
+```
+
+All competition results can be viewed in the following two files
+
+https://github.com/jieguangzhou/FIFA-World-Cup-2022/blob/workflow-pro/results/predict.txt
+
+https://github.com/jieguangzhou/FIFA-World-Cup-2022/blob/workflow-pro/results/results.csv
+
+>  The above results are from the branch `workflow-pro`. This branch will train longer models and run more simulations
 
 
+
+
+
+## Building a prediction system in three steps
+
+### Step-1 start DolphinScheduler
 
 we can start a [Dolphinscheduler](https://dolphinscheduler.apache.org) standalone server using Docker
 
@@ -22,9 +71,7 @@ password: dolphinscheduler123
 
 ![image-20221124232236471](img/image-20221124232236471.png)
 
-## Step-2 submit workflow
-
-
+### Step-2 submit workflow
 
 ```shell
 python3 -m pip install apache-dolphinscheduler==3.1.1
@@ -53,11 +100,9 @@ Then, we can see 3 workflow
 
 
 
-## Step-3 run workflow
+### Step-3 run workflow
 
-
-
-### start training workflow
+#### start training workflow
 
 ![image-20221124231816267](img/image-20221124231816267.png)
 
@@ -69,7 +114,7 @@ We can view log after the workflow had finished
 
 
 
-### Start predict workflow
+#### Start predict workflow
 
 We can view log after the workflow had finished
 
@@ -77,7 +122,7 @@ We can view log after the workflow had finished
 
 
 
-## Start betting strategy
+#### Start betting strategy workflow
 
 ![image-20221124232037988](img/image-20221124232037988.png)
 
