@@ -68,7 +68,7 @@ def predict(home_team, away_team, no_draw=True):
 
     if random_seed >= 0 and no_draw:
         predict_proba = [x / sum(predict_proba) for x in predict_proba]
-        np.random.seed(random_seed)
+        # np.random.seed(random_seed)
         win_team = np.random.choice(
             [away_team, home_team], p=predict_proba[:2])
         result['win_team'] = win_team
