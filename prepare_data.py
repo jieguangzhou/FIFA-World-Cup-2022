@@ -46,6 +46,7 @@ df['label'] = df['home_team_result'].map(
     {'Win': 1, 'Lose': 0})
 
 df['rank_diff'] = 1.0 * (df['home_team_fifa_rank'] - df['away_team_fifa_rank'])
+df['rank_mean'] = 0.5 * (df['home_team_fifa_rank'] + df['away_team_fifa_rank'])
 df['total_fifa_points'] = 1.0 * (df['home_team_total_fifa_points'] -
                                  df['away_team_total_fifa_points'])
 df['goalkeeper_score_diff'] = df['home_team_goalkeeper_score'] - \

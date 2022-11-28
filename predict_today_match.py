@@ -22,6 +22,9 @@ def predict(home_team, away_team, no_draw=True):
     data['rank_diff'] = 1.0 * \
         (home_team_data['fifa_rank'] -
          away_team_data['fifa_rank'])
+    data['rank_mean'] = 0.5 * \
+        (home_team_data['fifa_rank'] +
+         away_team_data['fifa_rank'])
     data['total_fifa_points'] = 1.0 * \
         (home_team_data['total_fifa_points'] -
          away_team_data['total_fifa_points'])

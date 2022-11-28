@@ -17,36 +17,36 @@ In this project, we will use machine learning to **predict which country will wi
 Probability of championship
 
 ```
-Netherlands    0.493506
-Serbia         0.197802
-France         0.127872
-Portugal       0.073926
-Brazil         0.043956
+Brazil       0.193
+Argentina    0.160
+France       0.140
+Spain        0.137
+England      0.131
+
 ```
 
 The top four
 
 ```
-No.1: Netherlands
-No.2: England
-No.3: Spain
+No.1: Brazil
+No.2: France
+No.3: Argentina
 No.4: Belgium
+
 ```
 
 ### Choose the team with a high probability of winning
 
 ```
-No.1: Spain
-No.2: England
-No.3: Netherlands
+No.1: Argentina
+No.2: France
+No.3: Spain
 No.4: Belgium
 ```
 
 All competition results can be viewed in the following two files
 
 https://github.com/jieguangzhou/FIFA-World-Cup-2022/blob/workflow-pro/results/predict.txt
-
-https://github.com/jieguangzhou/FIFA-World-Cup-2022/blob/workflow-pro/results/results.csv
 
 >  The above results are from the branch `workflow-pro`. This branch will train longer models and run more simulations
 

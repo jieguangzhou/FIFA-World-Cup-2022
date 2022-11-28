@@ -68,7 +68,7 @@ with ProcessDefinition(
 
     # Simulate the results of multiple matches
     predict_tasks = []
-    for seed in range(1000):
+    for seed in range(999):
         task_predict = Python(name=f"predict_match_{seed}",
                               definition=load_script("predict_match.py"),
                               local_params=[

@@ -27,6 +27,9 @@ def predict(home_team, away_team, no_draw=True):
     data['rank_diff'] = 1.0 * \
         (home_team_data['fifa_rank'] -
          away_team_data['fifa_rank'])
+    data['rank_mean'] = 0.5 * \
+        (home_team_data['fifa_rank'] +
+         away_team_data['fifa_rank'])
     data['total_fifa_points'] = 1.0 * \
         (home_team_data['total_fifa_points'] -
          away_team_data['total_fifa_points'])
@@ -49,7 +52,7 @@ def predict(home_team, away_team, no_draw=True):
 
     result = {}
     # if win_pro < 0.55, we think it is draw
-    if max_pro < 0.55 and not no_draw:
+    if max_pro < 0.60 and not no_draw:
         result['win_team'] = 'draw'
         predict_proba[2] = 1
 
