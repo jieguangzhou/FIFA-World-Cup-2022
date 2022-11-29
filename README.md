@@ -4,8 +4,9 @@
 
 DolphinScheduler machine learning "FIFA World Cup 2022" betting workflow
 
-In this project, we will use machine learning to **predict which country will win the FIFA World Cup 2022** and **get a betting strategy every day**.
+**YouTube**: [Predict FIFA World Cup 2022 champion and get a daily betting strategy by DolphinScheduler!](https://www.youtube.com/watch?v=pXBINJR2l5Y)
 
+In this project, we will use machine learning to **predict which country will win the FIFA World Cup 2022** and **get a betting strategy every day**.
 
 
 ## World Cup predictions
