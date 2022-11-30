@@ -128,8 +128,7 @@ We can view log after the workflow had finished
 ![image-20221124232037988](img/image-20221124232037988.png)
 
 
-
-`$[yyyy-MM-dd]`mean dolphinscheduler will use  the current year, month and day as a parameter, we can also set it to `2022-11-26` other date.
+`$[yyyy-MM-dd]`mean dolphinscheduler will use  the current year, month and day as a parameter, we can also set it to `2022-12-01` or other date.
 
 
 
@@ -141,3 +140,5 @@ We can view log after the workflow had finished
 - Can not download data in `download_data` task, please check [Can not access data in some region](https://github.com/jieguangzhou/FIFA-World-Cup-2022/issues/1)
 
 - [Can not see task status](https://github.com/jieguangzhou/FIFA-World-Cup-2022/issues/3)
+
+- [get_odds task error](https://github.com/jieguangzhou/FIFA-World-Cup-2022/issues/4)
