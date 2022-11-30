@@ -133,3 +133,10 @@ We can view log after the workflow had finished
 
 
 ![image-20221124232109784](img/image-20221124232109784.png)
+
+
+## Some Notes
+
+- Can not download data in `download_data` task, please check [Can not access data in some region](https://github.com/jieguangzhou/FIFA-World-Cup-2022/issues/1)
+
+- [Can not see task status](https://github.com/jieguangzhou/FIFA-World-Cup-2022/issues/3)
